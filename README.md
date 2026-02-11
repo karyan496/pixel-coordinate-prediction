@@ -23,7 +23,7 @@ This project implements an **optimized lightweight Convolutional Neural Network 
 ### Step 1: Clone or Extract the Repository
 ```bash
 # If using git
-git clone <repository-url>
+git clone https://github.com/karyan496/pixel-coordinate-prediction.git
 cd pixel-coordinate-prediction
 
 # If using compressed file
